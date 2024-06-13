@@ -35,12 +35,12 @@ We extract the top 10 main characters from the filtered list.
 
 
 ### 7. Result Interpretation
-The bar plot shows the top 10 most mentioned characters in the Game of Thrones book series. Compare this list to the characters you recognize from the movie adaptation.
+The bar plot shows the top 10 characters mentioned in the Game of Thrones book series. Compare this list to the characters you recognize from the movie adaptation.
 ![image](https://github.com/obinna-nweke/game-of-thrones-analysis/assets/152950827/a33057f2-aef2-4a7c-8ccf-327da5baa467)
 
 
 ## Conclusion
-By following the above steps, we have successfully identified and visualized the top 10 main characters in the Game of Thrones book series based on their mention frequency.
+Based on their mention frequency, we have successfully identified and visualized the top 10 main characters in the Game of Thrones book series.
 
 ## Files
 - gameofthrones.txt: Contains the text of the books 1-5 from the Game of Thrones Boxed Set.
